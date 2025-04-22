@@ -46,5 +46,3 @@ I'm always open to new challenges, learning opportunities, and meaningful collab
     <img width="40" height="40" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"  />
     <img width="40" height="40" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"  />
 </p>
-
----
