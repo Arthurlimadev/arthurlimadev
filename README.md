@@ -9,7 +9,7 @@ I love working with clean architectures, RESTful APIs, and cloud-native technolo
 
 My current focus is on mastering **cloud computing**, **microservices**, and **distributed systems** while working on real-world projects that allow me to continuously improve my skills.
 
-I'm always open to new challenges, learning opportunities, and meaningful collaboration—whether it's through open-source contributions or working on innovative platforms.
+I'm always open to new challenges, learning opportunities, and meaningful collaboration whether it's through open-source contributions or working on innovative platforms.
 
 ---
 
