@@ -4,7 +4,7 @@
 <img style="padding: 10px" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWE4YTludDh4YXUwd3ZxcG5iOWJhdjZtOWRhZzVpZ2djamt1YzNieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 </p>
 
-I'm a passionate **Back-End Developer** focused on building robust and scalable systems using **C#**, **.NET**, and **Golang**. 
+I'm a passionate **Back-End Developer** focused on building robust and scalable systems using **C#**, **.NET** and **Golang**. 
 I love working with clean architectures, RESTful APIs, and cloud-native technologies.
 
 My current focus is on mastering **cloud computing**, **microservices**, and **distributed systems** while working on real-world projects that allow me to continuously improve my skills.
